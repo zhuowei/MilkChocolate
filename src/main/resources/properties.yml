@@ -1,0 +1,7 @@
+name: MilkChocolate
+version: 0.1
+description: Adds support for Brammie's Minebuilder protocol.
+author: zhuowei
+main: net.zhuoweizhang.milkchocolate.MilkChocolatePlugin
+load: startup
+platform: BOTH
